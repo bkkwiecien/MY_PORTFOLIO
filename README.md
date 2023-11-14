@@ -1,7 +1,7 @@
 # Bartosz Kwiecień Fullstack Developer Portfolio
 Welcome to my official repository, as a Fullstack Developer showcasing his works and projects. This portfolio has been curated.
 
-## You can view my webpage here => https://bartosh-codecre8or.web.app/
+## You can view my webpage here => https://bkwiecien.pl
 
 ## About Me
 With a decent in full-stack development, I specialize in React, Typescript, Python, FireBase, HTMl and more if needed.
